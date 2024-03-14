@@ -1,0 +1,24 @@
+.Subscribe{
+    background-color: rgb(200,0,0);
+    color: white;
+    height: 30px;
+    width: 100px;
+    border-radius: 300px;
+    cursor:pointer;
+}
+
+.Join{
+    background-color: white;
+    color:mediumturquoise;
+    border-color:mediumturquoise;
+    height: 30px;
+    width: 100px;
+    border-radius: 300px;
+    cursor: pointer;
+}
+
+.Tweet{
+    background-color: cyan;
+    color: cyan;
+    
+}
